@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<configurations xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <tool_group>
+    <name>ArcWelding</name>
+    <description>Arc Welding tools</description>
+    <tools>
+      <tool Name="Automesh"/>
+      <tool Name="Create Beads"/>
+      <tool Name="Extract Midsurface"/>
+	  <tool Name="Infer Weld Location"/>
+	  <tool Name="Mesh Non Partitions"/>
+	  <tool Name="Mesh Partitions"/>
+	  <tool Name="Split by Trajectories"/>
+	  <tool Name="Suppress"/>
+    </tools>
+    <Version>1.0</Version>
+  </tool_group>
+</configurations>

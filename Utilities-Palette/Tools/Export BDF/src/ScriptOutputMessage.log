@@ -1,0 +1,12 @@
+Python exception encountered running script.
+Traceback (most recent call last):
+  File "ExportBDF.py", line 15, in <module>
+      ret = ExportBDF.ExportBDF(
+  File "E:/00-WeldingToolkit/v2021/Simufact Tools/Utilities-Palette/Tools/Export BDF/src\ExportBDF.py", line 30, in ExportBDF
+    for f in os.listdir(pathToSave):
+FileNotFoundError: [WinError 3] The system cannot find the path specified: ''
+
+**************************************
+Output (Prior to Exception):
+Exception raised when running script function:
+[WinError 3] The system cannot find the path specified: ''

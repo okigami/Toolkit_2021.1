@@ -1,0 +1,13 @@
+Python exception encountered running script.
+Traceback (most recent call last):
+  File "AWSRSWCode.py", line 15, in <module>
+      ret = AWSRSWCode.buildLapShear(
+  File "E:/00-WeldingToolkit/v2021/Simufact Tools/RSW-Palette/AWS stacks/D8.9 Lap shear/src\AWSRSWCode.py", line 329, in buildLapShear
+    _target.append(Sheet01.getSolids())
+  File "<string>", line 2376, in append
+TypeError: in method 'EntityCollection_append', argument 2 of type 'glef::Entity *'
+
+**************************************
+Output (Prior to Exception):
+Exception raised when running script function:
+in method 'EntityCollection_append', argument 2 of type 'glef::Entity *'

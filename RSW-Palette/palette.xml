@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<configurations xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <palette>
+    <name>Simufact RSW palette</name>
+    <icon>RSW.png</icon>
+    <description>Scripts to support Simufact RSW workflows</description>
+    <tool_groups Version="1.0" LastUpdate="20201228">
+      <group Name="RSW"/>
+    </tool_groups>
+	<tool_groups Version="1.0" LastUpdate="20201228">
+      <group Name="Generic stacks"/>
+    </tool_groups>
+	<tool_groups Version="1.0" LastUpdate="20201228">
+      <group Name="AWS stacks"/>
+    </tool_groups>
+  </palette>
+</configurations>

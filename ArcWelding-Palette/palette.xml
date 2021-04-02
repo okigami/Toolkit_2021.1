@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<configurations xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <palette>
+    <name>Simufact Arc Welding palette</name>
+    <icon>ArcWelding.png</icon>
+    <description>Scripts to support Simufact Welding workflows</description>
+    <tool_groups Version="1.0" LastUpdate="20201225">
+      <group Name="Sheet metal"/>
+    </tool_groups>
+	<tool_groups Version="1.0" LastUpdate="20201225">
+      <group Name="Generic joints"/>
+    </tool_groups>
+  </palette>
+</configurations>

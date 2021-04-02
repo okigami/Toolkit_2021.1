@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<configurations xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <tool>
+    <name>Lap Shear</name>
+    <icon>LapShearICON.png</icon>
+    <description>AWS D8.9 Lap Shear</description>
+    <uiscript>True</uiscript>
+    <runfile>LapShearUI.py</runfile>
+    <Version>1.0</Version>
+  </tool>
+</configurations>

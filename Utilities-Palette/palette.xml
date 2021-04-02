@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<configurations xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <palette>
+    <name>Simufact Utilities palette</name>
+    <icon>Utilities.png</icon>
+    <description>Scripts to support Simufact Workflows</description>
+	<tool_groups Version="1.0" LastUpdate="20140707">
+      <group Name="Tools"/>
+    </tool_groups>
+  </palette>
+</configurations>

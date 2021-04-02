@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wlWeldingParameter version="8.0" product="Simufact Welding" product_version="8.0.0.64941" file_time_stamp="2018-11-30T21:51:53">
+    <name display_name="Heat-source" internal_name="Heat-source"/>
+    <process_type>0</process_type>
+    <generalHeatSourceProperties>
+        <comment></comment>
+        <processType enable="true"></processType>
+        <material_combination enable="true"></material_combination>
+        <equipment enable="true"></equipment>
+        <calculationMethod enable="true"></calculationMethod>
+        <importSource enable="true"></importSource>
+        <equipmentManufacturer enable="true"></equipmentManufacturer>
+        <thicknessOfMaterial1 enable="true" dimension="5" unit="2" value="0.0"/>
+        <thicknessOfMaterial2 enable="true" dimension="5" unit="2" value="0.0"/>
+        <jointType enable="true">other</jointType>
+        <seamPreparation enable="true"></seamPreparation>
+        <fillerMaterial enable="true"></fillerMaterial>
+        <shildingGas enable="true"></shildingGas>
+        <shildingGasFlow enable="true" dimension="48" unit="2" value="0.0"/>
+        <fillerTroatThicknessA enable="true" dimension="5" unit="2" value="0.0"/>
+        <fillerBowThicknessB enable="true" dimension="5" unit="2" value="0.0"/>
+        <legLengthOfTheFillerZ1 enable="true" dimension="5" unit="2" value="0.0"/>
+        <lefLengthOfTheFillerZ2 enable="true" dimension="5" unit="2" value="0.0"/>
+        <gapSize enable="true" dimension="5" unit="2" value="0.0"/>
+        <wireSize enable="true" dimension="5" unit="2" value="0.0"/>
+        <wireFeedVelocity enable="true" dimension="7" unit="5" value="0.0"/>
+        <manufacturingMethod enable="true">manual</manufacturingMethod>
+        <weldingPosition enable="true">PA</weldingPosition>
+        <microstructureImages/>
+    </generalHeatSourceProperties>
+    <welding_parameter_data>
+        <velocity dimension="7" unit="8">10.0</velocity>
+        <voltage dimension="20" unit="0">10.0</voltage>
+        <current dimension="2" unit="0">10.0</current>
+        <efficiency>0.99</efficiency>
+        <power dimension="12" unit="0">0.0</power>
+        <ramp_up_active>true</ramp_up_active>
+        <ramp_up_duration dimension="9" unit="0">0.05</ramp_up_duration>
+        <ramp_up_origin dimension="26" unit="0">50.0</ramp_up_origin>
+        <ramp_down_active>true</ramp_down_active>
+        <ramp_down_duration dimension="9" unit="0">0.1</ramp_down_duration>
+        <ramp_down_target dimension="26" unit="0">50.0</ramp_down_target>
+        <specification_mode>0</specification_mode>
+        <thermal_cycle_data>
+            <number_thermal_cycles_mode>2</number_thermal_cycles_mode>
+            <number_thermal_cycles>2</number_thermal_cycles>
+            <is_full_thermal_cycles_active>false</is_full_thermal_cycles_active>
+        </thermal_cycle_data>
+    </welding_parameter_data>
+    <heat_source_data>
+        <heat_source_welding_process_type>0</heat_source_welding_process_type>
+        <goldak_heat_source_data>
+            <front_length dimension="5" unit="2" value="1.0"/>
+            <rear_length dimension="5" unit="2" value="1.0"/>
+            <width dimension="5" unit="2" value="1.0"/>
+            <depth dimension="5" unit="2" value="1.0"/>
+            <gaussian_parameter>3</gaussian_parameter>
+        </goldak_heat_source_data>
+        <laser_heat_source_data>
+            <cylinder_upper_radius dimension="5" unit="0" value="0.0"/>
+            <cylinder_lower_radius dimension="5" unit="0" value="0.0"/>
+            <cylinder_depth dimension="5" unit="0" value="0.0"/>
+            <cylinder_gaussian_parameter>0</cylinder_gaussian_parameter>
+            <cylinder_heat_fraction_factor>0</cylinder_heat_fraction_factor>
+            <heat_source_radius dimension="5" unit="0" value="0.0"/>
+            <surface_depth dimension="5" unit="0" value="0.0"/>
+            <surface_gaussian_parameter>3</surface_gaussian_parameter>
+        </laser_heat_source_data>
+    </heat_source_data>
+</wlWeldingParameter>

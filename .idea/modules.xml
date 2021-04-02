@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://D:/00-Personal/00-PythonStuff/.idea/00-Okigami.iml" filepath="D:/00-Personal/00-PythonStuff/.idea/00-Okigami.iml" />
+      <module fileurl="file://D:/00-Personal/00-PythonStuff/36-Welding2021-Scripting/.idea/36-Welding2021-Scripting.iml" filepath="D:/00-Personal/00-PythonStuff/36-Welding2021-Scripting/.idea/36-Welding2021-Scripting.iml" />
+      <module fileurl="file://D:/00-Personal/00-PythonStuff/37-OutputParticles/.idea/37-OutputParticles.iml" filepath="D:/00-Personal/00-PythonStuff/37-OutputParticles/.idea/37-OutputParticles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Simufact Tools.iml" filepath="$PROJECT_DIR$/.idea/Simufact Tools.iml" />
+    </modules>
+  </component>
+</project>

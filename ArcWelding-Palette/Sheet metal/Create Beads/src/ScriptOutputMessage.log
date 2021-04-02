@@ -1,0 +1,12 @@
+Python exception encountered running script.
+Traceback (most recent call last):
+  File "CreateBeads.py", line 15, in <module>
+      ret = CreateBeads.BeadBySweep(
+  File "E:/00-WeldingToolkit/v2021/Simufact Tools/ArcWelding-Palette/Sheet metal/Create Beads/src\CreateBeads.py", line 197, in BeadBySweep
+    CreateWeldBead(CSVPath = file, RefineDiam = float(dict["BeadLeg"])*2, UnitType = dic["unitType"])
+NameError: name 'dic' is not defined
+
+**************************************
+Output (Prior to Exception):
+Exception raised when running script function:
+name 'dic' is not defined

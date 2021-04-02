@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<configurations xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <tool>
+    <name>Create Planes</name>
+    <icon>CreatePlaneICON.png</icon>
+    <description>Create Planes</description>
+    <uiscript>True</uiscript>
+    <runfile>CreateRefPlanesUI.py</runfile>
+    <Version>1.0</Version>
+  </tool>
+</configurations>

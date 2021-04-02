@@ -1,0 +1,12 @@
+Python exception encountered running script.
+Traceback (most recent call last):
+  File "SuppressEdgesOnly.py", line 15, in <module>
+      ret = SuppressEdgesOnly.SuppressEdges(
+  File "E:/00-WeldingToolkit/v2021/Simufact Tools/ArcWelding-Palette/Sheet metal/Suppress/src\SuppressEdgesOnly.py", line 26, in SuppressEdges
+    _target.append(surface.getEdge(id=sortedByNumber[0]))
+NameError: name 'surface' is not defined
+
+**************************************
+Output (Prior to Exception):
+Exception raised when running script function:
+name 'surface' is not defined

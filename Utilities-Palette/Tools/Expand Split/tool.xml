@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<configurations xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <tool>
+    <name>Expand Split</name>
+    <icon>ExpandSplit.png</icon>
+    <description>Expand Split</description>
+    <uiscript>True</uiscript>
+    <runfile>ExpandSplitUI.py</runfile>
+    <Version>1.0</Version>
+  </tool>
+</configurations>

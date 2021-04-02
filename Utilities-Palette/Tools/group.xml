@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<configurations xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <tool_group>
+    <name>Tools</name>
+    <description>Group of generic tools</description>
+    <tools>
+      <tool Name="Create Group"/>
+      <tool Name="Create Planes"/>
+      <tool Name="Expand Split"/>
+	  <tool Name="Export BDF"/>
+	  <tool Name="Find Fixture"/>
+	  <tool Name="Get Trajectory"/>
+	  <tool Name="Heat Source"/>
+	  <tool Name="Infer Weld"/>
+	  <tool Name="Mesh Stats"/>
+	  <tool Name="Organize Bodies"/>
+	  <tool Name="Pick Regions"/>
+	  <tool Name="Remove Empty"/>
+	  <tool Name="Rename Parts"/>
+	  <tool Name="Round Corners"/>
+	  <tool Name="Stifness Study"/>
+	  <tool Name="Welding project"/>
+    </tools>
+    <Version>1.0</Version>
+  </tool_group>
+</configurations>

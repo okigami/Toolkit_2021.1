@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<configurations xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <tool_group>
+    <name>ArcWelding Joints</name>
+    <description>ArcWelding Joints tools</description>
+    <tools>
+      <tool Name="Edge Joint"/>
+      <tool Name="Flush Corner"/>
+	  <tool Name="Lap Joint"/>
+	  <tool Name="T Joint"/>
+    </tools>
+    <Version>1.0</Version>
+  </tool_group>
+</configurations>

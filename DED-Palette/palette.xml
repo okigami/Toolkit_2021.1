@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<configurations xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <palette>
+    <name>Simufact DED palette</name>
+    <icon>DED.png</icon>
+    <description>Scripts to support DED Simufact Workflows</description>
+    <tool_groups Version="1.0" LastUpdate="20140707">
+      <group Name="DED"/>
+    </tool_groups>
+  </palette>
+</configurations>

@@ -1,0 +1,14 @@
+Python exception encountered running script.
+Traceback (most recent call last):
+  File "GetTrajectory.py", line 15, in <module>
+      ret = GetTrajectory.extractTrajectory(
+  File "E:/00-WeldingToolkit/v2021/Simufact Tools/Utilities-Palette/Tools/Get Trajectory/src\GetTrajectory.py", line 107, in extractTrajectory
+    paramRange = workingEdge.getParametricRange()
+  File "C:\Program Files\MSC.Software\MSC Apex\2021-782254\python3\Lib\site-packages\smodules\glef\geometry.py", line 6031, in getParametricRange
+    return _geometry.Curve_getParametricRange(self)
+RuntimeError: Error: Not all edges share the same underlying curve.
+
+**************************************
+Output (Prior to Exception):
+Exception raised when running script function:
+Error: Not all edges share the same underlying curve.

@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<configurations xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <tool>
+    <name>Mesh Partitions</name>
+    <icon>SpotWeldingMeshPartitions.png</icon>
+    <description>Mesh Partitions</description>
+    <uiscript>True</uiscript>
+    <runfile>MeshPartitionsUI.py</runfile>
+    <Version>1.0</Version>
+  </tool>
+</configurations>
